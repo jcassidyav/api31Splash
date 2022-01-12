@@ -12,3 +12,4 @@ The original splash screen is shown for API<31 phones and the new type of splash
 ( Well it works on the emulators anyway).
 
 
+Note: I don't see the splash screen on API 31 emulator when I do `ns run android`  but if you relaunch the app on the emulator you see it.
